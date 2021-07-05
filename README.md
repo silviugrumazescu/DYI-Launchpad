@@ -16,4 +16,4 @@ Carcasa a fost proiectata in programul Fusion 360:
 ![](images/screenshot1.png)   
 
 Dupa imprimarea 3D a carcasei, piesele au fost lipite cu lipici fierbinte si cablajul fixat cu suruburi.
-![](images/screenshot2.png)
+![](images/screenshot2.jpg)
