@@ -1,3 +1,6 @@
+
+
+
 # DYI-Launchpad
 Acest proiect consta in realizarea unui Launchpad DIY care se poate conecta direct prin USB la un software DAW fara a fi nevoie de un alt software intermediar.
 ## Componente folosite:
@@ -17,3 +20,6 @@ Carcasa a fost proiectata in programul Fusion 360:
 
 Dupa imprimarea 3D a carcasei, piesele au fost lipite cu lipici fierbinte si cablajul fixat cu suruburi.
 ![](images/screenshot2.jpg)
+
+
+https://user-images.githubusercontent.com/74622515/124475112-069c0880-ddaa-11eb-8f6c-e80f2ce8ebdd.mp4
