@@ -12,4 +12,4 @@ Pentru realizarea interfatei MIDI s-a folosit libraria "MIDIUSB.h" valabila pent
 12 piese metalice conectate la MPR121, si de la cele 6 potentiometre.
 
 Carcasa a fost proiectata in programul Fusion 360:
-![](
+![](images/screenshot1.png)
