@@ -7,3 +7,9 @@ Acest proiect consta in realizarea unui Launchpad DIY care se poate conecta dire
 * Potentiometru glisant x2
 * Potentiometru rotativ x4
 * Carcasa imprimata 3D
+
+Pentru realizarea interfatei MIDI s-a folosit libraria "MIDIUSB.h" valabila pentru Arduino ce transmite direct prin USB catre DAW informatii primite de la cele 
+12 piese metalice conectate la MPR121, si de la cele 6 potentiometre.
+
+Carcasa a fost proiectata in programul Fusion 360:
+![](
